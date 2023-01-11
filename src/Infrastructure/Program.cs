@@ -7,7 +7,7 @@ namespace Infrastructure
         public static void Main(string[] args)
         {
             var app = new App();
-            new InfrastructureStack(app, "InfrastructureStack");
+            new StatefulStack(app, "mincuru-statuful-stack");
 
             app.Synth();
         }

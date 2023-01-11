@@ -1,4 +1,4 @@
-# Welcome to your CDK C# project!
+# infrastructure
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`InfrastructureStack`)
 which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
@@ -17,5 +17,3 @@ It uses the [.NET Core CLI](https://docs.microsoft.com/dotnet/articles/core/) to
 * `cdk docs`        open CDK documentation
 
 Enjoy!
-=======
-# infrastructure
